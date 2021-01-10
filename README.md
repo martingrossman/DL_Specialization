@@ -1,2 +1,2 @@
 # DL_Specialization
-Coursera Specialization Deep Learning
+Coursera  Deep Learning Specialization
